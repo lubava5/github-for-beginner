@@ -627,7 +627,7 @@ body.lock {
 }
 .main-container::before {
 	content: "";
-	background-image: url("/img/svg/bank.svg");
+	background-image: url("../img/svg/bank.svg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -688,7 +688,7 @@ body.lock {
 	position: relative;
 }
 .main__btn:before, .main__btn2:before {
-	content: url(/img/svg/arrow_b.svg);
+	content: url(../img/svg/arrow_b.svg);
 	position: absolute;
 	top: 100%;
 	left: 50%;
@@ -1122,7 +1122,7 @@ body.lock {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: url(/img/content/video.png) center center/cover no-repeat;
+	background: url(../img/content/video.png) center center/cover no-repeat;
 	cursor: pointer;
 }
 
