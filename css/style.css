@@ -229,7 +229,7 @@ body.lock {
 	font-size: 15px;
 }
 .user-options__link::after {
-	content: url(/img/svg/arrow.svg);
+	content: url(../img/svg/arrow.svg);
 	position: absolute;
 	right: 25%;
 	top: 32%;
@@ -478,19 +478,19 @@ body.lock {
 }
 
 .socials__item--icon--fb .socials__link {
-	background-image: url(/img/icons/socials/fb.svg);
+	background-image: url(../img/icons/socials/fb.svg);
 }
 
 .socials__item--icon--insta .socials__link {
-	background-image: url(/img/icons/socials/insta.svg);
+	background-image: url(../img/icons/socials/insta.svg);
 }
 
 .socials__item--icon--youtube .socials__link {
-	background-image: url(/img/icons/socials/youtube.svg);
+	background-image: url(../img/icons/socials/youtube.svg);
 }
 
 .socials__item--icon--telegram .socials__link {
-	background-image: url(/img/icons/socials/telegram.svg);
+	background-image: url(../img/icons/socials/telegram.svg);
 }
 
 @media (max-width: 767.98px) {
