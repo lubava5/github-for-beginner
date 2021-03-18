@@ -225,7 +225,7 @@ $(document).ready(function() {
        // 'onStateChange': onPlayerStateChange
       },
 			playerVars: {
-				controls: 0,
+				controls: 1,
 				disablekb: 0,
 				showinfo: 0,
 				rel: 0,
